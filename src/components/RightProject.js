@@ -112,8 +112,8 @@ function RightProjects() {
 									<Image
 										className="rounded-l-xl dark:shadow-zinc-950 lg:h-full"
 										src="/risen.png"
-										width={350}
-										height={350}
+										width={1200}
+										height={1200}
 										alt=""
 									></Image>
 								</div>
