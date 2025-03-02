@@ -39,7 +39,7 @@ function Hero() {
 						</div>
 					</div>
 					<div className="grid grid-cols-1 gap-2 lg:grid-cols-2 h-full">
-						<Link href="/projects" target="blank">
+						<Link href="/projects" target="_blank">
 							<div className="bg-slate-50 dark:bg-zinc-900 rounded-2xl flex flex-col h-full justify-between relative overflow-hidden">
 								<div className="p-8 relative">
 									<p className="text-xs leading-normal font-bold uppercase text-indigo-500 dark:text-indigo-500">
