@@ -29,7 +29,7 @@ function LastProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="lg:absolute -bottom-0 -right-2 ml-8 -mb-2">
+								<div className=" -bottom-0 -right-2 ml-8 -mb-2">
 									<Image
 										className="rounded-l-xl shadow-xl dark:shadow-zinc-950 lg:h-full"
 										src="/simple-dayplanner.png"
@@ -55,7 +55,7 @@ function LastProjects() {
 											Verizon
 										</h3>
 										<p className="text-sm leading-normal mt-2 font-medium">
-											Experience augmented reality using Verizon 5G
+											Experience augmented reality using Verizon 5G.
 										</p>
 									</div>
 									<div className="lg:absolute -bottom-12 -right-10 ml-8 -mb-4">

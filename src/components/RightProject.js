@@ -23,10 +23,10 @@ function RightProjects() {
 											Lalo
 										</h3>
 										<p className="text-sm leading-normal mt-2 font-medium">
-											Capture and preserve the memory of our loved ones
+											Capture and preserve the memory of our loved ones.
 										</p>
 									</div>
-									<div className="lg:absolute -bottom-12 -right-10 ml-8 -mb-4">
+									<div className="-bottom-12 -right-10 ml-8 -mb-4">
 										<Image
 											className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 											src="/lalo.png"

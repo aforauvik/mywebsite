@@ -29,7 +29,7 @@ function LeftProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="lg:absolute -bottom-40 -right-2 ml-8 -mb-4">
+								<div className=" -bottom-40 -right-2 ml-8 -mb-4">
 									<Image
 										className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 										src="/screens.png"
@@ -80,7 +80,7 @@ function LeftProjects() {
 											Club Funders
 										</h3>
 										<p className="text-sm leading-normal mt-2 font-medium">
-											Turn everyday spending into ongoing charity.
+											Fund your favorite club or athlete.
 										</p>
 									</div>
 									<div className="lg:absolute -bottom-12 -right-10 ml-8 -mb-4">
