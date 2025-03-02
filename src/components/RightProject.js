@@ -91,7 +91,7 @@ function RightProjects() {
 						{/* left col ends here  */}
 
 						{/* right two col starts here */}
-						<Link href="/Risen Devices - B2C.pdf" target="_blank">
+						<Link href="/Risen Devices.pdf" target="_blank">
 							<div className="bg-slate-50 dark:bg-zinc-900 rounded-2xl flex flex-col h-[500] justify-between relative overflow-hidden">
 								<div className="p-8 relative">
 									<p className="text-xs leading-normal font-bold uppercase text-indigo-500 dark:text-indigo-500">
