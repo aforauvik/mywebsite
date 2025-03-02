@@ -108,7 +108,7 @@ function RightProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="lg:absolute bottom-4 -right-2 ml-8 -mb-4">
+								<div className="bottom-4 -right-2 ml-8 -mb-4">
 									<Image
 										className="rounded-l-xl dark:shadow-zinc-950 lg:h-full"
 										src="/risen.png"
