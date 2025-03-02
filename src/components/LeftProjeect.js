@@ -31,12 +31,14 @@ function LeftProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="-bottom-24 -right-2 ml-8 -mb-4">
-									<img
+								<div className="absolute -bottom-40 -right-2 ml-8 -mb-4">
+									<Image
 										className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 										src="/screens.png"
+										width={1000}
+										height={1490}
 										alt=""
-									></img>
+									></Image>
 								</div>
 							</div>
 						</Link>
@@ -58,7 +60,7 @@ function LeftProjects() {
 											An AI powered travel planning mobile app.
 										</p>
 									</div>
-									<div className="-bottom-12 -right-10 ml-8 -mb-4">
+									<div className="lg:absolute -bottom-12 -right-10 ml-8 -mb-4">
 										<Image
 											className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 											src="/topio.png"
@@ -83,7 +85,7 @@ function LeftProjects() {
 											Turn everyday spending into ongoing charity.
 										</p>
 									</div>
-									<div className=" -bottom-12 -right-10 ml-8 -mb-4">
+									<div className="lg:absolute -bottom-12 -right-10 ml-8 -mb-4">
 										<Image
 											className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 											src="/clubfunders.png"
