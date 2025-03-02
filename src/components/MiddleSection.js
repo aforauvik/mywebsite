@@ -19,7 +19,7 @@ function MiddleSection() {
 						</div>
 						{/* 1st testimonial starts here */}
 						<div className="grid grid-cols-1 gap-2 lg:grid-cols-2 h-full">
-							<div className="dark:bg-zinc-900 bg-slate-50 relative p-8 rounded-2xl lg:h-[550] h-full text-center flex flex-col justify-center items-center lg:p-12 overflow-hidden">
+							<div className="dark:bg-zinc-900 bg-slate-50 relative p-8 rounded-2xl lg:h-[550px] h-full text-center flex flex-col justify-center items-center lg:p-12 overflow-hidden">
 								<Testimonial />
 								{/* <div>
 									<img className="h-12 mx-auto" src="/globe.svg" alt="" />
