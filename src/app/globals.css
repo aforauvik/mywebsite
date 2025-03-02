@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--background: #ffffff;
+	--foreground: #171717;
+}
+
+/* [data-theme="dark"] {
+	--background: #09090b;
+	--foreground: #ededed;
+} */
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background: #09090b;
+		--foreground: #ededed;
+	}
+}
+
+body {
+	/* color: var(--foreground);
+	background: var(--background); */
+	font-family: var(--font-open-sans);
+}
+
+.clickable {
+	transition: 300ms;
+}
+
+.clickable:hover {
+	transition: 300ms;
+}
+
+.rotate {
+	transition: 2000ms;
+}
