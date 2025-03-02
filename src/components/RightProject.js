@@ -92,7 +92,7 @@ function RightProjects() {
 
 						{/* right two col starts here */}
 						<Link href="/Risen Devices.pdf" target="_blank">
-							<div className="bg-slate-50 dark:bg-zinc-900 rounded-2xl flex flex-col h-[500] justify-between relative overflow-hidden">
+							<div className="bg-slate-50 dark:bg-zinc-900 rounded-2xl flex flex-col h-full justify-between relative overflow-hidden">
 								<div className="p-8 relative">
 									<p className="text-xs leading-normal font-bold uppercase text-indigo-500 dark:text-indigo-500">
 										Web App • UX/UI/Front-End
@@ -108,12 +108,12 @@ function RightProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className=" bottom-4 -right-2 ml-8 -mb-4">
+								<div className="lg:absolute -bottom-2 -right-2 ml-8 -mb-4">
 									<Image
-										className="rounded-l-xl dark:shadow-zinc-950 lg:h-full"
+										className="rounded-l-xl dark:shadow-zinc-950 h-full"
 										src="/risen.png"
-										width={1200}
-										height={1200}
+										width={1000}
+										height={1490}
 										alt=""
 									></Image>
 								</div>
