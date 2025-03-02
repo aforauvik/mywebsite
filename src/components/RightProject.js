@@ -26,7 +26,7 @@ function RightProjects() {
 											Capture and preserve the memory of our loved ones
 										</p>
 									</div>
-									<div className="-bottom-12 -right-10 ml-8 -mb-4">
+									<div className="lg:absolute -bottom-12 -right-10 ml-8 -mb-4">
 										<Image
 											className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 											src="/lalo.png"
@@ -91,7 +91,7 @@ function RightProjects() {
 						{/* left col ends here  */}
 
 						{/* right two col starts here */}
-						<Link href="/Risen Devices.pdf" target="_blank">
+						<Link href="/Risen Devices - B2C.pdf" target="_blank">
 							<div className="bg-slate-50 dark:bg-zinc-900 rounded-2xl flex flex-col h-[500] justify-between relative overflow-hidden">
 								<div className="p-8 relative">
 									<p className="text-xs leading-normal font-bold uppercase text-indigo-500 dark:text-indigo-500">
@@ -108,7 +108,7 @@ function RightProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="bottom-4 -right-2 ml-8 -mb-4">
+								<div className="lg:absolute bottom-4 -right-2 ml-8 -mb-4">
 									<Image
 										className="rounded-l-xl dark:shadow-zinc-950 lg:h-full"
 										src="/risen.png"
