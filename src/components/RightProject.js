@@ -26,7 +26,7 @@ function RightProjects() {
 											Capture and preserve the memory of our loved ones.
 										</p>
 									</div>
-									<div className="absolute -bottom-12 -right-10 ml-8 -mb-4">
+									<div className=" -bottom-12 -right-10 ml-8 -mb-4">
 										<Image
 											className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 											src="/lalo.png"
