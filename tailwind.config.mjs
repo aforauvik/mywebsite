@@ -8,7 +8,6 @@ export default {
 	],
 	theme: {
 		extend: {
-			position: ["responsive"],
 			colors: {
 				background: "var(--background)",
 				foreground: "var(--foreground)",

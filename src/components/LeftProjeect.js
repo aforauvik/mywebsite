@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
@@ -31,7 +29,7 @@ function LeftProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="absolute -bottom-40 -right-2 ml-8 -mb-4">
+								<div className="lg:absolute -bottom-40 -right-2 ml-8 -mb-4">
 									<Image
 										className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 										src="/screens.png"
