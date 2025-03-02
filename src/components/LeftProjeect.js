@@ -29,12 +29,14 @@ function LeftProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="lg:absolute -bottom-4 -right-2 ml-8 -mb-4">
-									<img
-										className="rounded-l-xl shadow-xl dark:shadow-zinc-950 h-full"
+								<div className=" -bottom-40 -right-2 ml-8 -mb-4">
+									<Image
+										className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
 										src="/screens.png"
+										width={1000}
+										height={1490}
 										alt=""
-									/>
+									></Image>
 								</div>
 							</div>
 						</Link>
