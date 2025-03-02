@@ -12,7 +12,7 @@ const openSans = Open_Sans({
 
 export const metadata = {
 	title: "Auvik Mir | Designer & Developer",
-	description: "Designer & Developer from North Carolina",
+	description: "Designer & Developer From North Carolina",
 };
 
 export default function RootLayout({children}) {
