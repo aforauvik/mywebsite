@@ -31,9 +31,9 @@ function LeftProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="relative bottom-0 -right-2 ml-8 -mb-4">
+								<div className="relative">
 									<img
-										className="rounded-l-xl shadow-xl dark:shadow-zinc-950"
+										className="absolute -bottom-32 -right-8 ml-8 -mb-4 rounded-l-xl shadow-xl dark:shadow-zinc-950"
 										src="/screens.png"
 										alt=""
 									/>
