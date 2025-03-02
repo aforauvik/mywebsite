@@ -31,7 +31,7 @@ function LeftProjects() {
 									View All Projects
 								</button> */}
 								</div>
-								<div className="lg:absolute -bottom-40 -right-2 ml-8 -mb-4">
+								<div className="lg:absolute top-52 -right-2 ml-8 -mb-4">
 									<Image
 										className="rounded-l-xl shadow-xl dark:shadow-zinc-950 lg:h-full"
 										src="/screens.png"
