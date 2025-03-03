@@ -5,6 +5,7 @@ import {PiInstagramLogoFill} from "react-icons/pi";
 import {FaSquareXTwitter} from "react-icons/fa6";
 import {IoMail} from "react-icons/io5";
 import ThemeToggle from "./ThemeToggle";
+import Link from "next/link";
 
 function Footer() {
 	const currentDate = new Date();
@@ -14,6 +15,11 @@ function Footer() {
 		<div className="flex flex-col items-center justify-center mt-10">
 			{/* footer starts here */}
 
+			{/* <Link href="https://ufo.auvik.me/" target="_blank">
+				<div className="m-4 w-20">
+					<img src="/ufo.webp" />
+				</div>
+			</Link> */}
 			<div className="flex flex-col items-center justify-center">
 				<div className="mb-4">
 					<ThemeToggle />

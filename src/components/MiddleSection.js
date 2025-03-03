@@ -56,12 +56,15 @@ function MiddleSection() {
 					</div>
 					<div className="grid grid-cols-1 gap-2 lg:grid-cols-2 h-full">
 						<div className="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-1 h-full">
-							<Link href="https://dribbble.com/auvik" target="blank">
-								<div className="bg-slate-50 dark:hover:bg-[rgb(227,92,103)]/15 hover:bg-[rgb(227,92,103)]/15  dark:bg-zinc-900 text-center rounded-2xl items-center p-14 flex h-full justify-center relative overflow-hidden clickable">
-									<div className="m-4">
+							<Link href="https://ufo.auvik.me/" target="blank">
+								<div className="bg-slate-50 dark:hover:bg-[rgb(139,92,246)]/15 hover:bg-[rgb(139,92,246)]/15  dark:bg-zinc-900 text-center rounded-2xl items-center p-8 flex h-full justify-center relative overflow-hidden clickable">
+									<div className="flex flex-col justify-between gap-4 w-40">
+										<p className="text-xs leading-normal font-bold uppercase text-violet-500 dark:text-violet-500">
+											Whack-a-Ufo
+										</p>
 										<img
 											className="rounded-l-xl lg:h-full"
-											src="/dribbble.png"
+											src="/ufo.webp"
 											alt=""
 										/>
 									</div>
