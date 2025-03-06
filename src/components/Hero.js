@@ -26,6 +26,7 @@ function Hero() {
 								design is an iterative process and design decisions should be
 								data-driven.
 							</p>
+
 							<div className="flex flex-wrap justify-center items-center gap-2 mx-auto mt-8">
 								<Link className="" target="blank" href="mailto:email@auvik.me">
 									<button className="flex items-center justify-center transition-all duration-200 focus:ring-2 focus:outline-none text-white bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500/50 h-9 px-4 py-2 text-sm font-semibold rounded-md">

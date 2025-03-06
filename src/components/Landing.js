@@ -10,6 +10,7 @@ import ThemeToggle from "@/components/ThemeToggle";
 import Project from "@/components/Projects";
 import NavigationTabs from "@/components/Navigation";
 import Footer from "./Footer";
+import Skills from "./Skills";
 
 function Landing() {
 	return (
@@ -18,6 +19,7 @@ function Landing() {
 			<MiddleSection />
 			{/* <BottomSection /> */}
 			{/* <Project /> */}
+			{/* <Skills /> */}
 
 			<Footer />
 		</>

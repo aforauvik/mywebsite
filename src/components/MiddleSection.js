@@ -60,7 +60,7 @@ function MiddleSection() {
 								<div className="bg-slate-50 dark:hover:bg-[rgb(139,92,246)]/15 hover:bg-[rgb(139,92,246)]/15  dark:bg-zinc-900 text-center rounded-2xl items-center p-8 flex h-full justify-center relative overflow-hidden clickable">
 									<div className="flex flex-col justify-between gap-4 w-40">
 										<p className="text-xs leading-normal font-bold uppercase text-violet-500 dark:text-violet-500">
-											Whack-a-Ufo
+											Rescue-an-Alien
 										</p>
 										<img
 											className="rounded-l-xl lg:h-full"
