@@ -91,8 +91,8 @@ function Hero() {
 									North Carolina
 								</h3>
 								<p className="text-sm leading-normal mt-2 font-medium">
-									I'm open to relocating to Charlotte, Seattle, Salt Lake City,
-									upstate NY or near the DC area.
+									I'm open to relocating to Charlotte, Seattle, Denver, Salt
+									Lake City, upstate NY or near the DC area.
 								</p>
 							</div>
 						</div>

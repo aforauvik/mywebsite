@@ -16,10 +16,10 @@ function Landing() {
 	return (
 		<>
 			<Hero />
+			<Skills />
 			<MiddleSection />
 			{/* <BottomSection /> */}
 			{/* <Project /> */}
-			{/* <Skills /> */}
 
 			<Footer />
 		</>
