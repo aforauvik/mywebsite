@@ -18,12 +18,12 @@ const stats = [
 	{
 		id: 3,
 		number: "7",
-		text: "Web App Launched",
+		text: "Web Apps Launched",
 	},
 	{
 		id: 4,
 		number: "5",
-		text: "Mobile App Launched",
+		text: "Mobile Apps Launched",
 	},
 ];
 

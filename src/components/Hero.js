@@ -18,7 +18,7 @@ function Hero() {
 							<h3 className="text-xl leading-tight tracking-tight sm:text-2xl md:text-3xl lg:text-4xl mt-4 font-semibold">
 								I am Auvik Mir
 							</h3>
-							<p className="text-base leading-normal mt-2 dark:text-zinc-300 font-medium">
+							<p className="text-base leading-normal mt-2 dark:text-zinc-200 font-medium">
 								A UX, IxD, UI designer, and front-end developer with 8+ years of
 								design experience guiding products through every stage—from
 								<span className="font-bold dark:text-white">
