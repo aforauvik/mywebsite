@@ -18,13 +18,24 @@ function Hero() {
 							<h3 className="text-xl leading-tight tracking-tight sm:text-2xl md:text-3xl lg:text-4xl mt-4 font-semibold">
 								I am Auvik Mir
 							</h3>
-							<p className="text-base leading-normal mt-2 text-base-600 font-medium">
+							<p className="text-base leading-normal mt-2 dark:text-zinc-300 font-medium">
 								A UX, IxD, UI designer, and front-end developer with 8+ years of
 								design experience guiding products through every stage—from
-								discovery to launch. I like to design human-centered,
-								minimalist, and most importantly functional products. I believe
-								design is an iterative process and design decisions should be
-								data-driven.
+								<span className="font-bold dark:text-white">
+									{" "}
+									{""}discovery to launch
+								</span>
+								. I like to design human-centered, minimalist, and most
+								importantly{" "}
+								<span className="font-bold dark:text-white">
+									functional products
+								</span>
+								. I believe design is an{" "}
+								<span className="font-bold dark:text-white">
+									iterative process
+								</span>{" "}
+								and design decisions should be{" "}
+								<span className="font-bold dark:text-white">data-driven</span>.
 							</p>
 
 							<div className="flex flex-wrap justify-center items-center gap-2 mx-auto mt-8">
