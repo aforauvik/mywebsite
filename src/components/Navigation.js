@@ -22,7 +22,7 @@ export default function Navigation() {
 
 	const handleTabClick = (tab) => {
 		if (tab === "My Blog") {
-			window.open("https://auvik.substack.com/", "_blank");
+			window.open("https://blog.auvik.me/", "_blank");
 		} else {
 			setActiveTab(tab);
 		}
