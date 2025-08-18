@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Hey Avo
+N:Avo;Hey;;;
+TEL;TYPE=CELL:(332) 222-7612
+URL:https://avocadohealth.ai/
+PHOTO;VALUE=URI:https://auvik.me/avocado.jpg
+END:VCARD
